@@ -1,6 +1,6 @@
 <?php
 
-include 'database.php';
+include '02-database.php';
 
 $dummyJSON = '[{"BrandID": 153,"BrandName": "TEST1","ProductNr": "0001","StandardDescription": "Product 1","StandardDescriptionID": 402},{"BrandID": 153,"BrandName": "TEST1","ProductNr": "0002","StandardDescription": "Product 2","StandardDescriptionID": 403},{"BrandID": 153,"BrandName": "TEST1","ProductNr": "0003","StandardDescription": "Product 3","StandardDescriptionID": 404},{"BrandID": 153,"BrandName": "TEST1","ProductNr": "0004","StandardDescription": "Product 4","StandardDescriptionID": 405},{"BrandID": 153,"BrandName": "TEST1","ProductNr": "0005","StandardDescription": "Product 5","StandardDescriptionID": 406}]';
 
